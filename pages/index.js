@@ -80,7 +80,6 @@ export default function Home() {
                 setSelectedItem={setSelectedItem}
                 setMenu={setMenu}
                 setSelectedCategory={setSelectedCategory}
-                onOpen={onOpen}
                 setUseModal={setUseModal}
               />
             ))}
